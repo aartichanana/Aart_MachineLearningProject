@@ -1,2 +1,2 @@
-# Aart_MachineLearningProject
+# Aarti_MachineLearningProject
 My first ML Project
